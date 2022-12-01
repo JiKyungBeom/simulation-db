@@ -1,0 +1,12 @@
+<additional>
+    <tlLogic id="1.Sindong396-7" type="static" programID="36, 36, 48, 40" offset="10">
+        <phase duration="32" state="grrrrgGGGgrrrrrgrrrrGrrr"/>
+        <phase duration="4" state="grrrrgyyygrrrrrgrrrrrrrr"/>
+        <phase duration="32" state="gGGGGgrrrgrrrrrgrrrrrrrG"/>
+        <phase duration="4" state="gyyyygrrrgrrrrrgrrrrrrrr"/>
+        <phase duration="44" state="grrrrgrrrgrrrrrgGGGGrrGr"/>
+        <phase duration="4" state="grrrrgrrrgrrrrrgyyyyrrrr"/>
+        <phase duration="36" state="grrrrgrrrgGGGGGgrrrrrGrr"/>
+        <phase duration="4" state="grrrrgrrrgyyyyygrrrrrrrr"/>
+    </tlLogic>
+</additional>

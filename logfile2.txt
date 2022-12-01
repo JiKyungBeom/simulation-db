@@ -1,0 +1,16 @@
+***Starting server on port 62696 ***
+Loading net-file from 'C:\Users\jkb92\simulation-server\IKSAN\cfg\../net/IKSAN.net.xml' ... done (284ms).
+Loading additional-files from 'C:\Users\jkb92\simulation-server\IKSAN\cfg\../add/its7.xml' ... done (2ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Simulation ended at time: 3670.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 3.28s
+ Real time factor: 1118.56
+ UPS: 1330.996647
+Vehicles: 
+ Inserted: 90
+ Running: 0
+ Waiting: 0
+

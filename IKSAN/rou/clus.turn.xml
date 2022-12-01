@@ -1,0 +1,18 @@
+<edgeRelations>
+    <interval begin="0" end="3600"> 
+    <edgeRelation from="-gneE0" to="gneE3" probability="0.22"/>
+    <edgeRelation from="-gneE0" to="gneE2" probability="0.35"/>
+    <edgeRelation from="-gneE0" to="gneE1" probability="0.43"/>
+    <edgeRelation from="-gneE1" to="gneE0" probability="0.32"/>
+    <edgeRelation from="-gneE1" to="gneE3" probability="0.32"/>
+    <edgeRelation from="-gneE1" to="gneE2" probability="0.37"/>
+    <edgeRelation from="-gneE2" to="gneE1" probability="0.31"/>
+    <edgeRelation from="-gneE2" to="gneE0" probability="0.38"/>
+    <edgeRelation from="-gneE2" to="gneE3" probability="0.31"/>
+    <edgeRelation from="-gneE3" to="gneE2" probability="0.36"/>
+    <edgeRelation from="-gneE3" to="gneE1" probability="0.32"/>
+    <edgeRelation from="-gneE3" to="gneE0" probability="0.32"/>
+    </interval>
+        <sink edges="gneE2 gneE3 gneE1 gneE0"/>
+</edgeRelations>
+                            

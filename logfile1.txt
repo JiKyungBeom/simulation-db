@@ -1,0 +1,4 @@
+***Starting server on port 54169 ***
+Loading net-file from 'C:\Users\jkb92\simulation-server\IKSAN\cfg\../net/IKSAN.net.xml' ... done (123ms).
+Error: Could not build output file './sumo/out/tripinfoclus.xml' (No such file or directory).
+Quitting (on error).
